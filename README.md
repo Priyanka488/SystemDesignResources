@@ -7,6 +7,12 @@ System Design is all about building reliable, scalable and maintainable systems.
 - [Web Architecture basics](https://www.youtube.com/watch?v=AYHE2m651dY) 
 - [Different Tiers in Software Architecture](https://www.educative.io/courses/web-application-software-architecture-101) (module 2)
 
+### Day 2
+- [Web Architecture](https://nlogn.in/http-push-and-pull-introduction/) - (module 3)
+    - client-server
+    - types of clients
+    - REST API
+- [HTTP PUSH, PULL](https://nlogn.in/http-push-and-pull-introduction/)
 ## Major Resources -
 
 - Books
@@ -17,3 +23,4 @@ System Design is all about building reliable, scalable and maintainable systems.
     - [System Design primer](https://github.com/donnemartin/system-design-primer)
 - Courses
     - [Web Application and Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101) (accessible using Github student dev pack)
+    
