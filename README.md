@@ -8,11 +8,20 @@ System Design is all about building reliable, scalable and maintainable systems.
 - [Different Tiers in Software Architecture](https://www.educative.io/courses/web-application-software-architecture-101) (module 2)
 
 ### Day 2
-- [Web Architecture](https://nlogn.in/http-push-and-pull-introduction/) - (module 3)
+- [Web Architecture](https://www.educative.io/courses/web-application-software-architecture-101) - (module 3)
     - client-server
     - types of clients
     - REST API
 - [HTTP PUSH, PULL](https://nlogn.in/http-push-and-pull-introduction/)
+
+### Day 3
+- [HTTP PULL - Polling with ajax](https://www.educative.io/courses/web-application-software-architecture-101) - (module 3)
+- [Persistent Connection Approaches(HTTP PUSH)](https://youtu.be/k56H0DHqu5Y)
+    - HTTP Polling
+    - HTTP Long polling
+    - web socket
+    - server send events
+    - Streaming over HTTP
 ## Major Resources -
 
 - Books
