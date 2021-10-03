@@ -22,6 +22,18 @@ System Design is all about building reliable, scalable and maintainable systems.
     - web socket
     - server send events
     - Streaming over HTTP
+
+### Day 4
+- Scalability 
+    - [what is scalability](https://youtu.be/OjOUNhBE404)
+    - [horizontal vs vertical](https://youtu.be/r7X5U7jXXRw)
+    - [scaling for global audience](https://youtu.be/29gJ6BUpw0M)
+        - vertical and horizontal scaling
+        - isolation of services
+        - CDN
+        - Edge cache
+        - Geo-DNS
+    
 ## Major Resources -
 
 - Books
