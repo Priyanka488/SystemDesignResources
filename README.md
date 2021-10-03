@@ -3,7 +3,7 @@
 
 System Design is all about building reliable, scalable and maintainable systems.
 
-## Major Resources -
+## Major Resources 📚
 
 - Books
     - [ Designing data intensive applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
@@ -14,6 +14,7 @@ System Design is all about building reliable, scalable and maintainable systems.
 - Courses
     - [Web Application and Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101) (accessible using Github student dev pack)
 
+##  Progress ⏳
 ### Day 1
 - [Web Architecture basics](https://www.youtube.com/watch?v=AYHE2m651dY) 
 - [Different Tiers in Software Architecture](https://www.educative.io/courses/web-application-software-architecture-101) (module 2)
