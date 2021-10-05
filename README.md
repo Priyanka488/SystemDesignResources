@@ -45,6 +45,13 @@ System Design is all about building reliable, scalable and maintainable systems.
         - CDN
         - Edge cache
         - Geo-DNS
+
+### Day 5
+
+- [Scalability- module 4](https://www.educative.io/courses/web-application-software-architecture)
+    - application latency vs n/w latency
+    - Primary bottlenecks for scalability - databases, application architecture, caching, load balancers etc
+- [Performance vs scalability](https://github.com/donnemartin/system-design-primer#performance-vs-scalability)
     
 
     
