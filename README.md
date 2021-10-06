@@ -47,11 +47,19 @@ System Design is all about building reliable, scalable and maintainable systems.
         - Geo-DNS
 
 ### Day 5
-
 - [Scalability- module 4](https://www.educative.io/courses/web-application-software-architecture)
     - application latency vs n/w latency
     - Primary bottlenecks for scalability - databases, application architecture, caching, load balancers etc
 - [Performance vs scalability](https://github.com/donnemartin/system-design-primer#performance-vs-scalability)
-    
 
-    
+### Day 6
+- Throughput vs Latency
+    - [Understanding Latency vs Througput](https://community.cadence.com/cadence_blogs_8/b/sd/posts/understanding-latency-vs-throughput?Redirected=true)
+    - Measuring Latency: average, p90, p99 etc
+        - [Percentile Tail Latency](https://www.youtube.com/watch?v=3JdQOExKtUY)
+
+### Day 7
+- Availability vs Consistency
+    - [Understanding C,A,P](https://youtu.be/pSoKUfLTe8Y)
+    - [CAP Theorem](https://youtu.be/kwCFHLbIhak)
+
