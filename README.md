@@ -68,3 +68,7 @@ System Design is all about building reliable, scalable and maintainable systems.
 - [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - Further read on CAP theorem -
     - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+
+## Day 9
+- [High Availability- module 5](https://www.educative.io/courses/web-application-software-architecture)
+    - fault tolerance, redundancy, replication, HA clustering
