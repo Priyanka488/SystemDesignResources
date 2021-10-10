@@ -63,12 +63,12 @@ System Design is all about building reliable, scalable and maintainable systems.
     - [Understanding C,A,P](https://youtu.be/pSoKUfLTe8Y)
     - [CAP Theorem](https://youtu.be/kwCFHLbIhak)
 
-## Day 8
+### Day 8
 - [Eventual consistency vs strong consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - Further read on CAP theorem -
     - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 
-## Day 9
+### Day 9
 - [High Availability- module 5](https://www.educative.io/courses/web-application-software-architecture-101)
     - fault tolerance, redundancy, replication, HA clustering
