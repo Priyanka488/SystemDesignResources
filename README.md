@@ -47,7 +47,7 @@ System Design is all about building reliable, scalable and maintainable systems.
         - Geo-DNS
 
 ### Day 5
-- [Scalability- module 4](https://www.educative.io/courses/web-application-software-architecture)
+- [Scalability- module 4](https://www.educative.io/courses/web-application-software-architecture-101)
     - application latency vs n/w latency
     - Primary bottlenecks for scalability - databases, application architecture, caching, load balancers etc
 - [Performance vs scalability](https://github.com/donnemartin/system-design-primer#performance-vs-scalability)
@@ -70,5 +70,5 @@ System Design is all about building reliable, scalable and maintainable systems.
     - https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 
 ## Day 9
-- [High Availability- module 5](https://www.educative.io/courses/web-application-software-architecture)
+- [High Availability- module 5](https://www.educative.io/courses/web-application-software-architecture-101)
     - fault tolerance, redundancy, replication, HA clustering
