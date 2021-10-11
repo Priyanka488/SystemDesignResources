@@ -72,3 +72,12 @@ System Design is all about building reliable, scalable and maintainable systems.
 ### Day 9
 - [High Availability- module 5](https://www.educative.io/courses/web-application-software-architecture-101)
     - fault tolerance, redundancy, replication, HA clustering
+
+### Day 10
+- [Hashing](https://www.youtube.com/watch?v=cITtFpz3a3Y)
+- [Consistent Hashing](https://www.youtube.com/watch?v=oKAU6LaYFhw)
+- [Consistent Hashing](https://www.youtube.com/watch?v=zaRkONvyGr8)
+
+### Day 11
+- [Load Balancing](https://afteracademy.com/blog/what-is-load-balancing-how-does-it-work)
+- [Load balancing using consistent hashing](https://nlogn.in/consistent-hashing-system-design/)
