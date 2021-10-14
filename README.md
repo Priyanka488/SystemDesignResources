@@ -84,3 +84,7 @@ System Design is all about building reliable, scalable and maintainable systems.
 
 ### Day 12 
 - [Monolith vs Microservices - module 6](https://www.educative.io/courses/web-application-software-architecture-101)
+
+### Day 13
+- [Reverse proxy web server](https://github.com/donnemartin/system-design-primer#reverse-proxy-web-server)
+- [Proxy vs Reverse Proxy](https://www.youtube.com/watch?v=SqqrOspasag)
