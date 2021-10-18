@@ -94,3 +94,9 @@ System Design is all about building reliable, scalable and maintainable systems.
 - [Databases - module 7](https://www.educative.io/courses/web-application-software-architecture-101)
     - relational vs non relational, polyglot persistence, types of dbs 
  
+ ### Day 15
+ - [Database scaling using Replication](https://youtu.be/RIcNswROzCc)
+    - master-slave, master-master architecture
+    - replication lag
+    - synchronous vs async replication
+    - replica vs snapshot
