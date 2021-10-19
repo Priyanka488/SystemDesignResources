@@ -100,3 +100,10 @@ System Design is all about building reliable, scalable and maintainable systems.
     - replication lag
     - synchronous vs async replication
     - replica vs snapshot
+
+### Day 16
+- [Database Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+    - vertical vs horizontal sharding
+    - logical vs physical shards
+    - sharding strategies - dynamic, algorithmic
+    - advantages and pitfalls
