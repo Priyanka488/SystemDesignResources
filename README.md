@@ -107,3 +107,9 @@ System Design is all about building reliable, scalable and maintainable systems.
     - logical vs physical shards
     - sharding strategies - dynamic, algorithmic
     - advantages and pitfalls
+
+### Day 17
+- [Caching](https://github.com/donnemartin/system-design-primer#cache)
+    - client caching, web server caching, cdn caching etc
+    - cache updating strategies
+    
