@@ -112,4 +112,7 @@ System Design is all about building reliable, scalable and maintainable systems.
 - [Caching](https://github.com/donnemartin/system-design-primer#cache)
     - client caching, web server caching, cdn caching etc
     - cache updating strategies
-    
+
+### Day 18
+- [Introduction to Architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+    - Caching - Application vs database caching, in-memory caches, CDNs, Cache invalidation
