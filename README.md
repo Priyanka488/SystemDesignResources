@@ -116,3 +116,9 @@ System Design is all about building reliable, scalable and maintainable systems.
 ### Day 18
 - [Introduction to Architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
     - Caching - Application vs database caching, in-memory caches, CDNs, Cache invalidation
+
+### Day 19
+- [Asynchronism & Message Queues](https://www.youtube.com/watch?v=J6CBdSCB_fY)
+
+### Day 20
+- [Publisher-Subscriber Model](https://youtu.be/-vd_Ay0pvFY)
