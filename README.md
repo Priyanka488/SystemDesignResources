@@ -122,3 +122,7 @@ System Design is all about building reliable, scalable and maintainable systems.
 
 ### Day 20
 - [Publisher-Subscriber Model](https://youtu.be/-vd_Ay0pvFY)
+
+### Day 21
+- [URL-shortener](https://youtu.be/JQDHz72OA3c)
+ 
